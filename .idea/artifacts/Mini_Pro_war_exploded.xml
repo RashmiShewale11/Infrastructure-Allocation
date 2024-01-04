@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Mini Pro:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mini_Pro_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Mini Pro" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Mini Pro/web/Web" />
+    </root>
+  </artifact>
+</component>
