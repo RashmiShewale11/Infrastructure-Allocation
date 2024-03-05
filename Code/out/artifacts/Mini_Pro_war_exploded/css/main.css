@@ -1,0 +1,59 @@
+#login {
+    font-family: "Lato", sans-serif;
+    color: black;
+    background: url(/img/reg1.jpg);
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+label{
+    margin-left: 10px;
+   margin-right: 5px;
+    padding-top: 10px;
+
+    alignment: center;
+    height: 50px;
+}
+.my-input {
+    /*padding: 8px;*/
+    padding-left: 8px;
+    padding-right: 8px;
+    display: block;
+    border: none;
+    height: 50px;
+    border-bottom: 1px solid #ccc;
+    /*width: 100%*/
+}
+
+.main {
+
+    margin-top: 50px;
+    font-size: 24px; /* Increased text to enable scrolling */
+}
+
+.mybtn {
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 100%;
+    padding: 0px;
+    text-align: left;
+}
+
+.mylabel {
+    /*margin-left: 200px;*/
+    float: left;
+    margin-left: 200px;
+    /*alignment: right;*/
+
+}
+
+.myinput {
+    margin-left: 400px;
+    /* float: right;
+     /*float:;*/
+}
+
+.card-fat {
+    background-color: rgba(255, 250, 250, 0.7)
+}
